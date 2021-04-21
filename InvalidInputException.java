@@ -1,5 +1,5 @@
 /**
- * @author Group 3: Tien N., Victoria T., Niklas K.
+ * @author Tien N.
  * customized exception to print warning message when user's input is invalid
  */
 public class InvalidInputException extends Exception{

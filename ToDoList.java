@@ -2,7 +2,7 @@ import java.util.Iterator;
 import java.util.PriorityQueue;
 import java.util.Queue;
 /*
- * @author Group 3: Tien N., Victoria T., Niklas K.
+ * @author Tien N.
  */
 public class ToDoList {
 	private Queue<Task> list;

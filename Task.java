@@ -1,5 +1,5 @@
 /*
- * @author Group 3: Tien N., Victoria T., Nik K.
+ * @author Tien N.
  * A task object has 2 attributes:
  * a priority number and a description
  */

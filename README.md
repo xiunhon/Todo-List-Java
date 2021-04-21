@@ -1,4 +1,4 @@
-# Todo_List
+# Todo-List
 Using Java Collection - Priority Queue to implement a ToDo List program
 
 Implement a to do list. Tasks have a priority between 1 and 9, and a description.

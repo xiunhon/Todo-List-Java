@@ -1,8 +1,6 @@
 import java.util.Scanner;
 /*
- * @author Group 3: Tien N., Victoria T., Niklas K.
- * due date 4/12/2021
- * Part One
+ * @author Tien N.
 Implement a to do list. Tasks have a priority between 1 and 9, and a description.
 When the user enters the command add priority description, 
 create a task with the the priority and the description entered in the command. 
